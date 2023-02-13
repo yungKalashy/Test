@@ -1,0 +1,57 @@
+.artifo-logo {
+    width: 100px !important;
+}
+
+.trokut1 {
+    position: relative;
+    width: 1151.88px;
+    height: 1136.35px;
+    left: 1525.96px;
+    top: -619px;  
+    background: #266B52;
+    border-radius: 87px;
+    transform: rotate(70deg);
+
+}
+
+.trokut2{
+    position: relative;
+    width: 1445.62px;
+    height: 1426.13px;
+    left: 866.49px;
+    top: -198px;
+    z-index: -0.8;
+    background: #79AF7A;
+    border-radius: 72px;
+    transform: rotate(65.6deg);
+}
+
+
+.covjeculjak {
+    width: 100%;
+    height: 75%;
+}
+
+#covjeculjakPozicija{
+    z-index: 1;
+}
+
+.custom-5-margin {
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+}
+
+.site-margin {
+    margin-right: 556px;
+    margin-left: 556px;
+}
+
+.container-blue-color{
+    background-color: #253959;
+}
+
+.container-fluid-bg-white{
+    background-color: white;
+    z-index: -100;
+}
+
